@@ -20,8 +20,8 @@ const Users=()=>{
     }
     return(
         <div id={style.myUsers}>
-            {data.map((x)=>{
-                return(
+            {data.map((x)=>(
+                // return(
                     <div id={style.cards}>
                         <table>
                             <tr>
@@ -46,7 +46,7 @@ const Users=()=>{
                         </table>
                     </div>
                 )
-            })}
+            )}
         </div>
     )
 }

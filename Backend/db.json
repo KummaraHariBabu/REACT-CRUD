@@ -1,56 +1,16 @@
 {
   "content": [
     {
-      "name": "abc",
+      "name": "Rebel",
+      "salary": "1000000",
+      "company": "Film industry",
       "id": 1
     },
     {
-      "name": "mouni",
-      "salary": "150000",
-      "company": "tcs",
-      "id": 4
-    },
-    {
-      "name": "Reddy",
-      "salary": "140000",
-      "company": "valuelabs",
-      "id": 5
-    },
-    {
-      "name": "Naveen",
-      "salary": "200000",
-      "company": "wipro",
+      "name": "kummara hari babu",
+      "salary": "12000",
+      "company": "xyz",
       "id": 6
-    },
-    {
-      "name": "haribabu",
-      "salary": "100000",
-      "company": "capgemini",
-      "id": 8
-    },
-    {
-      "name": "haji",
-      "salary": "120000",
-      "company": "accenture",
-      "id": 9
-    },
-    {
-      "name": "nikhil",
-      "salary": "150000",
-      "company": "infosys",
-      "id": 10
-    },
-    {
-      "name": "duddu",
-      "salary": "100000",
-      "company": "hexogon",
-      "id": 11
-    },
-    {
-      "name": "Kummara Hari Babu",
-      "salary": "736",
-      "company": "Value",
-      "id": 12
     }
   ]
 }

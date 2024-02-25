@@ -31,7 +31,6 @@ const Editusers=()=>{
         })
         navigate("/users")
         window.location.assign("/users")
-
     }
 
     let nameData=(e)=>{
@@ -68,7 +67,6 @@ const Editusers=()=>{
                     <th colspan="2" ><button onClick={formHandle} >Submit</button></th>
                 </tr>
             </table>
-
 
         </div>
     )
